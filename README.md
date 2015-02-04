@@ -1,2 +1,2 @@
 # data-scientist-toolbox
-For use with the Data Scientist Course on Coursera
+Testing commiting changes by typing some random nonsense into this file.
